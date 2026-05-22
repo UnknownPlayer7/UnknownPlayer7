@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/DemonLord3000)](https://leetcode.com/DemonLord3000)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/UnknownPlayer7)](https://leetcode.com/UnknownPlayer7)
